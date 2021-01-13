@@ -20,3 +20,8 @@ git clone clone_path
 - HTML
 - CSS
 - JS
+
+# Contributer
+
+[Utkarsh Agarwal](https://github.com/Utkarsh-Agarwal-585)
+
